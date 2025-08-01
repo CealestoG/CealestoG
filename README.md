@@ -6,7 +6,7 @@
  Dream: Build intelligent systems
 
  Tech Stack
--  Python, C++, JavaScript
+-  Python, C, Java, JavaScript
 -  ML: scikit-learn, PyTorch, TensorFlow
 -  NLP: Transformers, RAG, LLMs
 - ☁ Cloud & Dev: Git, Docker, Azure, Linux
