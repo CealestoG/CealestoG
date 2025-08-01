@@ -1,4 +1,4 @@
- Hi, I'm Gayathri Sarkar 👋
+ Hi, I'm Gayathri Sarkar 
 
  4th year B.Tech AIML Student  
  Fascinated by Neural Networks, NLP & Game AI  
@@ -11,7 +11,7 @@
 -  NLP: Transformers, RAG, LLMs
 - ☁ Cloud & Dev: Git, Docker, Azure, Linux
 
-🧩 Projects
+ Projects
  ContextAwareChat – Multi-agent chatbot using AutoGen, Ollama & RAG  
  ParkingSlotDetection – CV model for real-time parking detection
 
